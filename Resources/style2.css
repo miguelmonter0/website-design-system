@@ -1,0 +1,79 @@
+body {
+    background-image: url('images/background.jpg');
+}
+/* Navbar */
+.navbar li {
+    display: inline;
+    margin-right: 20px;
+}
+header {
+    text-align: right;
+    margin-right: 20px;
+}
+.navbar a {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: Helvetica;
+}
+.navbar a:hover {
+    color: #fff043;
+    font-weight: 700;
+}
+/* Main box */
+.mainbox {
+    height: 300px;
+    width: 600px;
+    background-color: #fff068;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.footerbox {
+    height: 80px;
+    width: 600px;
+    background-color: #fff386;
+    margin-top: -20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footerbox button {
+    margin-left: 220px;
+    border: 3px solid #fff068;
+    background-color: #fff068;
+}
+.footerbox a {
+    text-decoration: none;
+    padding: 30px;
+    color: black;
+    
+
+}
+.footerbox a:hover {
+    font-weight: 700;
+    color: chocolate;
+}
+.mainbox, .footerbox {
+    margin-left: 400px;
+    position: relative;
+    top: 80px;
+}
+/* Footer*/
+footer {
+    color: white;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    bottom: 20px;
+    left: 650px;
+    font-size: 12px;
+}
+/* Font-Pairings */
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 35px;
+}
+p {
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+}

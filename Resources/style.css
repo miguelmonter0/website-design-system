@@ -1,0 +1,206 @@
+body {
+    background-color: #fffcdc;
+
+}
+
+#main-header {
+    background-color: #fff043;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -15px;
+}
+
+.navbar {
+    text-align: right;
+    padding-top: 10px;
+
+}
+
+.navbar li {
+    display: inline;
+    margin-right: 30px;
+    font-weight: 700;
+
+}
+.navbar a {
+    color: black;
+}
+
+.navbar a:hover {
+    color: #4352ff;
+    cursor: pointer;
+}
+
+h1 {
+    margin-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 5px;
+    position:relative;
+    bottom: 30px;
+}
+
+.color {
+    border: 3px solid #fff043;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.color h2, .color h3, .color p {
+    margin-left: 10px;
+
+}
+
+.favoritecolors {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 90px;    
+}
+
+.favoritecolors li {
+    display: inline;
+    margin-right: 100px;
+}
+
+.button {
+    margin-left: 10px;
+}
+/* Favorite Colors Blocks */
+#mainlygreen {
+    border: 1px solid #065535;
+    padding: 30px 30px;
+    background-color: #065535;
+}
+#pink {
+    border: 1px solid #ffc0cb;
+    padding: 30px 30px;
+    background-color: #ffc0cb;
+}
+#salmon {
+    border: 1px solid #fa8072;
+    padding: 30px 30px;
+    background-color: #fa8072;
+}    
+#khaki {
+    border: 1px solid #fff68f;
+    padding: 30px 30px;
+    background-color: #fff68f;
+}
+#mainlyblue {
+    border: 1px solid #0e2f44;
+    padding: 30px 30px;
+    background-color: #0e2f44;    
+}
+#mainlyred {
+    border: 1px solid #794044;
+    padding: 30px 30px;
+    background-color: #794044;
+    position: relative;
+    top: 90px;
+}    
+
+/* Phtcology of colors */
+.phycology {
+    margin-left: -40px;
+}
+.phycology li {
+    list-style-type: none;
+    font-weight: 700;
+    padding: 10px;
+}
+#red {
+background-color: red;
+}
+#orange {
+background-color: orange;
+}
+#yellow {
+background-color: yellow;
+}
+#green {
+background-color: green;
+}
+#blue {
+background-color: blue;
+}
+#purple{
+background-color: purple;
+}
+#gray {
+background-color: gray;
+}
+#white {
+background-color: white;
+}
+#black {
+background-color: black;
+color: white
+}
+/* Fonts */
+.fonts {
+    border: 3px solid #fff043;
+    margin-top: 5px;
+
+}
+.fonts h2, .fonts h3, .fonts p {
+    margin-left: 10px;
+}
+.font-pairings {
+    padding-bottom: 5px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font-pairings a:hover {
+    font-weight: 700;
+}
+.helvetica {
+    font-family: Helvetica;
+}
+.garamond {
+    font-family: fantasy;
+}
+
+/* Text-Styles*/
+.textstyles {
+    font-family:Arial, Helvetica, sans-serif;
+    border: 3px solid #fff043;
+    margin-top: 5px;
+}
+#h1 {
+    font-weight: 700;
+    font-size: 26px;
+}
+#h2 {
+    font-weight: 700;
+    font-size: 18px;
+}
+#paragraph {
+    font-family: Garamond;
+    font-size: 20px;
+    font-weight: 400;
+}
+/* Links */
+a {
+    text-decoration: none;
+
+}
+
+.favoritecolors a {
+    color: black;
+    font-weight: 600;
+}
+
+.favoritecolors a:hover {
+    color:black;
+    background-color: white;
+
+}
+/* Main Footer */
+#main-footer {
+    blackground: #fff068;
+}
+#main-footer p {
+    color: black;
+    font-weight: 500;
+    text-align: center;
+    background-color: #fff068;
+}
